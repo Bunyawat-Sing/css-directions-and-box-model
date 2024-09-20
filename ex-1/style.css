@@ -5,9 +5,14 @@
     padding: 20px;
     background-color: rgb(214, 224, 255);
     margin: 40px;
-    font-style: italic;
+    
 }
 
-h1, p {
+h1 {
     color: navy;
+}
+
+p {
+    color: navy;
+    font-style: italic;
 }
